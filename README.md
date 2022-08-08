@@ -1,4 +1,4 @@
-#Hello,This is Sulin
+Hello,This is Sulin
 > Self-introduction
 
 Personally, I like programming very much. From a very young age, I like to edit VBScript to trick people. Later, I found the importance of computer programming more and more, so I began to learn computer programming languages.
