@@ -13,7 +13,10 @@ I am a person who likes programming very much. I first came into contact with pr
 
 **https://supage.ml/**
 
-- 👋 Hi, I’m **@alltobebetter**
-- 👀 I’m interested in **All Programming**
-- 🌱 I’m currently learning **Python＆C＆Jave**
-- 📫 How to reach me **alltobebetter@proton.me**
+👋 Hi, I’m **@alltobebetter**
+
+👀 I’m interested in **All Programming**
+
+🌱 I’m currently learning **Python＆C＆Jave**
+
+📫 How to reach me **alltobebetter@proton.me**
