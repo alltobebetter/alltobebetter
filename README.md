@@ -20,3 +20,5 @@ I am a person who likes programming very much. I first came into contact with pr
 🌱 I’m currently learning **Python＆C＆Jave**
 
 📫 How to reach me **alltobebetter@proton.me**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alltobebetter&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
