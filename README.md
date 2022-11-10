@@ -19,6 +19,6 @@ I am a person who likes programming very much. I first came into contact with pr
 
 👀 I’m interested in **All Programming**
 
-🌱 I’m currently learning **Python＆C＆Jave**
+🌱 I’m currently learning **Python＆C＆Java**
 
 📫 How to reach me **alltobebetter@proton.me**
