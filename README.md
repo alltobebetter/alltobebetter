@@ -42,3 +42,34 @@ myCommit.stage({ file1: 'modified', file2: 'added' });
 myCommit.commit();
 ```
 
+## 4. Status Class
+The Status class provides information about the current state of the repository, including the current branch, staging area, and working directory.
+
+### Usage Example:
+
+```Javascript
+const myStatus = new Status(myRepository);
+myStatus.display();
+```
+
+## 5. Merge Class
+
+The Merge class handles branch merging operations.
+
+### Usage Example:
+
+```javascript
+const myMerge = new Merge(myRepository);
+myMerge.merge('feature-branch', 'main');
+```
+
+## 6. Diff Class
+
+The Diff class allows users to view changes introduced in a specific commit.
+
+###Usage Example:
+
+```javascript
+const myDiff = new Diff(myRepository);
+myDiff.showChanges(2);
+```
