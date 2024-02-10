@@ -2,6 +2,21 @@
 
 This documentation provides details on using the Git-Like Framework, a JavaScript framework inspired by Git.
 
+
+```mermaid
+graph TD
+  A[Initialize Repository] -->|Create Branch| B(Create Feature Branch)
+  B -->|Stage Changes| C(Stage changes for commit)
+  C -->|Commit Changes| D(Create Commit: Implement new feature)
+  D -->|Switch Branch| E(Switch to main branch)
+  E -->|Stage Changes| F(Stage changes for commit)
+  F -->|Commit Changes| G(Create Commit: Fix bug)
+  G -->|Merge Branch| H(Merge feature-branch into main)
+  H -->|View Changes| I(View changes in specific commit)
+  I -->|Check Status| J(Check repository status)
+```
+
+
 ## 1. Repository Class
 
 The `Repository` class represents a code repository. It includes basic functionalities like creating branches, committing changes, switching branches, viewing commit history, and checking the status.
