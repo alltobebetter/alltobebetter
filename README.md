@@ -1,4 +1,4 @@
-# Sulin Js Git Framework Documentation
+# Sulin awas Js Git Framework Documentation
 
 This documentation provides details on using the Git-Like Framework, a JavaScript framework inspired by Git.
 
