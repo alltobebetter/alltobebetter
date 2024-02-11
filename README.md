@@ -2,6 +2,19 @@
 
 This documentation provides details on using the Git-Like Framework, a JavaScript framework inspired by Git.
 
+```framework
+Slin-Js-Git-framework/
+├── core/
+│   ├── repository.js
+│   ├── branch.js
+│   └── commit.js
+├── operations/
+│   ├── merge.js
+│   └── diff.js
+├── status/
+│   └── status.js
+└── main.js
+```
 
 ```mermaid
 graph TD
@@ -88,3 +101,5 @@ The Diff class allows users to view changes introduced in a specific commit.
 const myDiff = new Diff(myRepository);
 myDiff.showChanges(2);
 ```
+
+Connect:me@sulin.eu.org
